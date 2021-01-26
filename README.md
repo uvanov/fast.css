@@ -2,7 +2,7 @@
 
 It is a small css-framework, which make fast more your layout styling.
 
-#### Styles: 
+### Styles: 
 
 Style-shortcuts was made with first letters of each css-property. <br>
 
