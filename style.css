@@ -1,3 +1,6 @@
+/*
+  Created by github.com/uvanov
+*/
 .mt-1 {
   margin-top: 1px;
 }
@@ -3256,7 +3259,7 @@
   display: inline-grid;
 }
 
-@media screen and (max-width: 1600px) {
+@media screen and (min-width: 1600px) {
   .lg-c-1 {
     grid-template-columns: repeat(1, 1fr);
   }
@@ -3297,7 +3300,7 @@
     grid-template-rows: 5;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
   .md-c-1 {
     grid-template-columns: repeat(1, 1fr);
   }
@@ -3338,7 +3341,7 @@
     grid-template-rows: 5;
   }
 }
-@media screen and (max-width: 480px) {
+@media screen and (min-width: 0px) {
   .sm-c-1 {
     grid-template-columns: repeat(1, 1fr);
   }
